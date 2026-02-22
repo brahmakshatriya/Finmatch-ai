@@ -35,7 +35,7 @@ trade_reconciler/
 ⚙️ Installation
 Clone the repository:
 
-git clone https://github.com/your-username/trade_reconciler.git
+git clone https://github.com/brahmakshatriya/trade_reconciler.git
 cd trade_reconciler
 Install dependencies:
 
