@@ -1,27 +1,57 @@
-# trade_reconciler
-📊 Trade Reconciler
-A lightweight trade reconciliation system that compares trade data across sources and identifies mismatches, missing records, and inconsistencies.
+# 🚀 Trade Reconciler – Automating Financial Data Matching
 
-🚀 Overview
-Trade Reconciler helps ensure data integrity by:
+A simple yet powerful tool built to automate the process of trade reconciliation by matching and identifying discrepancies between financial datasets.
 
-Comparing trade records between systems
+---
 
-Identifying unmatched trades
+## 💡 Problem
 
-Detecting quantity/price mismatches
+Manual trade reconciliation is:
+- Time-consuming ⏳  
+- Error-prone ❌  
+- Inefficient for large datasets 📉  
 
-Generating reconciliation reports
+---
 
-Built to simulate real-world financial data validation workflows.
+## ⚡ Solution
 
-🛠 Tech Stack
-Python 3.x
+This project automates the reconciliation process by:
+- Comparing datasets  
+- Identifying mismatches  
+- Highlighting discrepancies instantly  
 
-Pandas
+---
 
-CSV / Excel file handling
+## 🛠️ Features
 
+- Automated trade matching  
+- Fast data comparison  
+- Error detection  
+- Clean and simple workflow  
+
+---
+
+## 📸 Demo
+
+(Add a screenshot or GIF here showing input vs output)
+
+---
+
+## ⚙️ How It Works
+
+1. Input trade data  
+2. Run the script  
+3. Get matched & unmatched results  
+
+---
+
+## 🚀 How to Run
+
+```bash
+git clone https://github.com/brahmakshatriya/Trade-Reconciler
+cd Trade-Reconciler
+# run your main file (example)
+python main.py
 (Adjust this if you're using something else.)
 
 📂 Project Structure
