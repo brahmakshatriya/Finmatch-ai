@@ -1,32 +1,32 @@
-# 🚀 Trade Reconciler – Automating Financial Data Matching
+# 🚀 Finmatch AI – Smart Trade Reconciliation Engine
 
-A simple yet powerful tool built to automate the process of trade reconciliation by matching and identifying discrepancies between financial datasets.
+Finmatch AI is a smart and efficient tool designed to automate trade reconciliation by matching financial datasets and identifying discrepancies with speed and accuracy.
 
 ---
 
 ## 💡 Problem
 
-Manual trade reconciliation is:
+Manual reconciliation is:
 - Time-consuming ⏳  
 - Error-prone ❌  
-- Inefficient for large datasets 📉  
+- Difficult to scale 📉  
 
 ---
 
 ## ⚡ Solution
 
-This project automates the reconciliation process by:
-- Comparing datasets  
-- Identifying mismatches  
-- Highlighting discrepancies instantly  
+Finmatch AI automates the process by:
+- Comparing large datasets  
+- Detecting mismatches instantly  
+- Reducing manual effort  
 
 ---
 
 ## 🛠️ Features
 
 - Automated trade matching  
-- Fast data comparison  
-- Error detection  
+- Fast and efficient processing  
+- Error detection & reporting  
 - Clean and simple workflow  
 
 ---
@@ -34,59 +34,14 @@ This project automates the reconciliation process by:
 ## ⚙️ How It Works
 
 1. Input trade data  
-2. Run the script  
-3. Get matched & unmatched results  
+2. Run the system  
+3. Get matched & unmatched results instantly  
 
 ---
 
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/brahmakshatriya/Trade-Reconciler
-cd Trade-Reconciler
-# run your main file (example)
+git clone https://github.com/brahmakshatriya/Finmatch-AI
+cd Finmatch-AI
 python main.py
-(Adjust this if you're using something else.)
-
-📂 Project Structure
-trade_reconciler/
-│
-├── data/               # Input trade files
-├── output/             # Reconciliation results
-├── reconciler.py       # Core reconciliation logic
-├── requirements.txt    # Dependencies
-└── README.md
-⚙️ Installation
-Clone the repository:
-
-git clone https://github.com/brahmakshatriya/trade_reconciler.git
-cd trade_reconciler
-Install dependencies:
-
-pip install -r requirements.txt
-▶️ Usage
-Run the reconciler:
-
-python reconciler.py
-Output will be generated in the output/ directory.
-
-🧠 Features
-✅ Exact trade matching
-
-⚠️ Mismatch detection
-
-❌ Missing trade identification
-
-📑 Clean output reporting
-
-🔮 Future Improvements
-Web dashboard interface
-
-Database integration
-
-Automated scheduled reconciliation
-
-Logging and audit trail
-
-👨‍💻 Author
-Brahmakshatriya
