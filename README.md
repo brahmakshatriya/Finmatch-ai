@@ -31,12 +31,6 @@ This project automates the reconciliation process by:
 
 ---
 
-## 📸 Demo
-
-(Add a screenshot or GIF here showing input vs output)
-
----
-
 ## ⚙️ How It Works
 
 1. Input trade data  
